@@ -51,6 +51,18 @@ require_once "config/database.php";
         </a>
     </li>
 
+    <li>
+        <a href="shipments/view.php">
+            View Shipments
+        </a>
+    </li>
+
+    <li>
+        <a href="suppliers/view.php">
+            View Suppliers
+        </a>
+    </li>
+
 </ul>
 </body>
 </html>
